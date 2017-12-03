@@ -16,7 +16,6 @@ $ git clone https://github.com/Swarm-IITKgp/swarm_simulator.git swarm_simulator
 ```
 export GAZEBO_MODEL_PATH=<path to gazebo models folder>
 ```
-
 - Alternatively, you can copy the models folder to the gazebo hidden directory in the home folder, i.e: ```~/.gazebo/models``` 
 
 - Add the following lines to your ~/.bashrc file at the end:
